@@ -1,2 +1,2 @@
-# Business KRI Dashboard
-Run: streamlit run app.py
+ Business KRI Dashboard 
+ LIVE DEMO - https://business-kri-dashboard-erjczc3w8t6xggoqjjvcox.streamlit.app/
